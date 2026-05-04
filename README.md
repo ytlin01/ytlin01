@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Alice 👋
 
-<!--
-**ytlin01/ytlin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Mechanical Engineering (Robotics & Controls) from Columbia,
+now focused on data science and ML applications.
 
-Here are some ideas to get you started:
+My background sits at the intersection of sensor data, machine learning,
+and systems thinking — I like projects where the data is messy and
+the domain knowledge matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I work with
+
+**Languages:** Python · SQL · MATLAB · C++
+**ML / DL:** Scikit-learn · PyTorch · TensorFlow
+**Data:** Pandas · NumPy · SciPy · time-series analysis
+**Other:** Neo4j · LangChain · LangGraph · ROS2 · Git
+
+---
+
+### 📌 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 AlexNet Architecture Study | Modified AlexNet variants — ablation study comparing baseline vs architectural changes | PyTorch · CNN |
+| 🦿 Gait Cycle Detection | ML pipeline for detecting gait events from 3D VIVE tracker data in walker-assisted rehabilitation | Python · Scikit-learn · Time-series |
+| 🔊 Ultrasonic Weld QC | Signal feature extraction + 4-classifier comparison for quality monitoring at 99.5% accuracy | Python · Scikit-learn |
+| 🎮 LoL Champion Recommender | SQL-backed recommendation system using Riot API data with optimized schema and batch sync | SQL · Python |
+
+---
+
+### 📫 Let's connect
+
+[LinkedIn](https://linkedin.com/in/alin0118) · yl5470@columbia.edu
