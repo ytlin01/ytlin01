@@ -1,17 +1,18 @@
-## Hi, I'm Alice 👋
+## Hi, I'm Alice
 
-MS in Mechanical Engineering (Robotics & Controls) from Columbia,
-now focused on data science and ML applications.
+The key to a well-performing AI system isn't all about the model or the stack. It's about the data: how well it's cleaned, processed, and wired into the system. That's the problem I tackle. As a data engineer sitting at the crossroad of data and AI, I build the knowledge systems that make AI reliable in production. Here's what I do:
 
-My background sits at the intersection of sensor data, machine learning,
-and systems thinking — I like projects where the data is messy and
-the domain knowledge matters.
+1. Engineer multi-stage ETL pipelines from raw data ingestion to structured output
+2. Model domain knowledge into Neo4j graph databases for AI retrieval
+3. Build GraphRAG systems that ground LLM outputs in verified, structured data
+
+My background in mechanical engineering gives me insight into the physical systems behind the data. When that understanding is baked into a data pipeline, it becomes a system accessible to everyone. That's what I'm here to build. Currently open to data/ML engineering roles.
 
 ---
 
 ### 🔧 What I work with
 
-**Languages:** Python · SQL · MATLAB · C++
+**Languages:** Python · SQL · MATLAB
 **ML / DL:** Scikit-learn · PyTorch · TensorFlow
 **Data:** Pandas · NumPy · SciPy · time-series analysis
 **Other:** Neo4j · LangChain · LangGraph · ROS2 · Git
